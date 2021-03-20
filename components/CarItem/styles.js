@@ -10,11 +10,13 @@ const styles = StyleSheet.create({
     marginTop: '30%',
     width: '100%',
     alignItems: 'center',
+    
   },
   
   title: {
     fontSize: 40,
     fontWeight: '500',
+    color: 'white',
   },
   
   subtitle: {

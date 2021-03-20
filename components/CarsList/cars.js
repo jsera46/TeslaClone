@@ -17,4 +17,14 @@ export default [{
   tagline: 'Order Online for',
   taglineCTA: 'Touchless Delivery',
   image: require('../../assets/images/ModelY.jpeg'),
+},{
+  name: 'BULAGA',
+  tagline: 'Ricky 4 Short',
+  taglineCTA: 'TRY ME',
+  image: require('../../assets/images/Ricky.jpg'),
+}, {
+  name: 'By Me heheheh',
+  tagline: 'Best in me',
+  taglineCTA: 'for short despair',
+  image: require('../../assets/images/Try.jpg'),
 }];
